@@ -76,6 +76,7 @@ All of the above settings are environment/laptop specific.
 
 * Pimp your soccerbot - [bling and beep instructions](./assignments/Bling%20and%20beep.md)
 * For the more adventurous - [Pan & Tilt](./assignments/Pan and Tilt fun.md)
+* Want to try something else? I have some tessels you can play with: https://tessel.io/
 
 ## Challenges
 
