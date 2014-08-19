@@ -24,8 +24,8 @@ You will need johnny-five and the keypress packages installed.
 
 Change into the code folder and then run the 2 commands below.
 
-	```npm install johnny-five```
-	```npm install keypress```
+	npm install johnny-five
+	npm install keypress
 
 ### Connect Soccerbot
 
