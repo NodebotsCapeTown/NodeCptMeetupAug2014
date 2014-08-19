@@ -70,8 +70,8 @@ All of the above setting is environment specific.
 
 ## Bling it on
 
-* Pimp your soccerbot - [bling and beep instructions](assignments/Bling and peep.md)
-* For the more adventurous - [Pan & Tilt(./assignments/Pan and Tilt fun.md)
+* Pimp your soccerbot - [bling and beep instructions](./assignments/Bling%20and%20beep.md)
+* For the more adventurous - [Pan & Tilt](./assignments/Pan and Tilt fun.md)
 
 ## Challenges
 
