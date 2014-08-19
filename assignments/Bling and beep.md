@@ -17,21 +17,16 @@ http://node-ardx.org/exercises/6
 
 You need to make your Nodebot  road worthy by adding indicators and breaklights. 
 
-Add to your bot
-
+Add to your bot:
 	* Indicators when your bot turn left or right
 	* Breaklights when stopping - they should go of by themselves
 	* A tooter - make it count!
 
-
 ###Blue and Red LED's
 
-Your bot is in the blue light brigade to protect the VIP's
+Your bot is in the bluelight brigade to protect the VIP's
 
 Add to your bot:
 	* Blue lights of course! Strobing bright ones.
 	* Breaklights when stopping - they should go of by themselves
-	* A siten to match the occasion - to be heard from a far.
-
-
-Once you are done
+	* A siren to match the occasion - to be heard from a far.
