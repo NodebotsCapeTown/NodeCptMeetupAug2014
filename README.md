@@ -38,7 +38,13 @@ Try to run it using:
 
 You should now be able to control the Soccerbot with your up/down arrows on your keyboard.
 
-### Make it wireless:
+## Bling it on
+
+* Pimp your soccerbot - [bling and beep instructions](./assignments/Bling%20and%20beep.md)
+* For the more adventurous - [Pan & Tilt](./assignments/Pan and Tilt fun.md)
+* Want to try something else? I have some tessels you can play with: https://tessel.io/
+
+## Make it wireless:
 
 To make your Soccerbot wireless you will need to attach the supplied Bluetooth module and power it using a 9V battery.
 
@@ -71,12 +77,6 @@ Once you are happy change your Soccerbots code accordingly and go roam wirelessl
 Ubuntu [bluetooth setup](https://gist.github.com/missinglink/5a290e5cb48801fb1b9a)
 
 All of the above settings are environment/laptop specific.
-
-## Bling it on
-
-* Pimp your soccerbot - [bling and beep instructions](./assignments/Bling%20and%20beep.md)
-* For the more adventurous - [Pan & Tilt](./assignments/Pan and Tilt fun.md)
-* Want to try something else? I have some tessels you can play with: https://tessel.io/
 
 ## Challenges
 
