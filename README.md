@@ -63,7 +63,7 @@ board = new five.Board({
 });
 ```
 
-Ubuntu (bluetooth setup) [https://gist.github.com/missinglink/5a290e5cb48801fb1b9a]
+Ubuntu [bluetooth setup](https://gist.github.com/missinglink/5a290e5cb48801fb1b9a)
 
 All of the above setting is environment specific.
 
@@ -78,7 +78,7 @@ All of the above setting is environment specific.
 Program your Soccerbot to:
 
 * navigate its way around 4 cones in a clockwise direction and back.
-* zig-zag it way through 5 cones. 
+* zig-zag it's way through 5 cones. 
 
 
 
