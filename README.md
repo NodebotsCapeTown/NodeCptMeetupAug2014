@@ -34,6 +34,7 @@ Now connect the Soccerbot to your laptop with the supplied USB cable.
 In the code folder there will be a file called soccerbot-basic.js
 
 Try to run it using:
+	
 	node soccerbot-basic.js
 
 You should now be able to control the Soccerbot with your up/down arrows on your keyboard.
