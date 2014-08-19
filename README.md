@@ -34,8 +34,7 @@ Now connect the Soccerbot to your laptop with the supplied USB cable.
 In the code folder there will be a file called soccerbot-basic.js
 
 Try to run it using:
-
-	```node soccerbot-basic.js```
+	node soccerbot-basic.js
 
 You should now be able to control the Soccerbot with your up/down arrows on your keyboard.
 
@@ -71,8 +70,8 @@ All of the above setting is environment specific.
 
 ## Bling it on
 
-* Pimp your soccerbot - (bling and beep instructions)[./assignments/Bling and peep.md]
-* For the more adventurous - (Pan & Tilt)[./assignments/Pan and Tilt fun.md]
+* Pimp your soccerbot - (bling and beep instructions)[assignments/Bling and peep.md]
+* For the more adventurous - (Pan & Tilt)[assignments/Pan and Tilt fun.md]
 
 ## Challenges
 
