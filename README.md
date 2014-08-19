@@ -14,7 +14,7 @@ Clone this repository: https://github.com/NodebotsCapeTown/NodeCptMeetupAug2014
 
 ### Setup Arduino
 
-Typically you would need to setup your Arduino for Nodebots by loading Firmata on there. If you use your own Arduino for Nodebots you will need to do that. If you use one of the supplied Arduinos it will already have Firmata on there.
+Typically you would need to setup your Arduino for Nodebots by loading Firmata on it. If you use your own Arduino tonight you will need to do that. The supplied Arduinos already have Firmata installed on them.
 
 To setup your own Arduino follow these [setup steps](http://node-ardx.org/] - or ask us to help you.
 
@@ -22,10 +22,10 @@ To setup your own Arduino follow these [setup steps](http://node-ardx.org/] - or
 
 You will need johnny-five and the keypress packages installed.
 
-In the code folder do this:
+Change into the code folder and then run the 2 commands below.
 
-```npm install johnny-five```
-```npm install keypress```
+	```npm install johnny-five```
+	```npm install keypress```
 
 ### Connect Soccerbot
 
@@ -42,8 +42,9 @@ You should now be able to control the Soccerbot with your up/down arrows on your
 
 To make your Soccerbot wireless you will need to attach the supplied Bluetooth module and power it using a 9V battery.
 
-You will need to pair with your laptop, in the way specific to your OS.
-Once paired you will need to configure the port setup in the code. All the bluetooh modules have a preconfigured name - see the names on the sticker on the Soccerbot
+You will need to pair with your laptop, in the way specific to your OS. All the bluetooh modules have a preconfigured name - see the names on the sticker on the Soccerbot. This is usefull when doing the bluetooth pairing.
+
+Once paired you will need to configure your soccerbot to use bluetooth.
 
 The typical setup look like this:
 
@@ -82,3 +83,7 @@ Program your Soccerbot to:
 
 * navigate its way around 4 cones in a clockwise direction and back.
 * zig-zag it's way through 5 cones. 
+
+## A big thanks to
+
+Soccerbots and the Sumobot are brought to you by: https://github.com/makenai/sumobot-jr
