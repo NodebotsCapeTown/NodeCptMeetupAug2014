@@ -62,11 +62,14 @@ board = new five.Board({
 		port : "/com9"
 });
 ```
+	
+Use the [./code/board_with_port.js] file to test your bluetooth config. If it is working you should see the LED on the board blinking. 
+
+Once you are happy change your Soccerbots code accordingly and go roam wirelessly.
 
 Ubuntu [bluetooth setup](https://gist.github.com/missinglink/5a290e5cb48801fb1b9a)
 
-All of the above setting is environment specific.
-
+All of the above settings are environment/laptop specific.
 
 ## Bling it on
 
@@ -79,7 +82,3 @@ Program your Soccerbot to:
 
 * navigate its way around 4 cones in a clockwise direction and back.
 * zig-zag it's way through 5 cones. 
-
-
-
-
