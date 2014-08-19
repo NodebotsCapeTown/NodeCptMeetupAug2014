@@ -9,9 +9,9 @@ Here are some usefull links to get you going with servos and the Ultrasonic sens
 
 *Servos*
 
-*(A basic servo example)[http://node-ardx.org/exercises/4]
-*(The Servo API)[https://github.com/rwaldron/johnny-five/wiki/Servo]
-*(Move a Servo using the keyboard)[https://github.com/rwaldron/johnny-five/blob/master/docs/servo-keypress.md]
+	*(A basic servo example)[http://node-ardx.org/exercises/4]
+	*(The Servo API)[https://github.com/rwaldron/johnny-five/wiki/Servo]
+	*(Move a Servo using the keyboard)[https://github.com/rwaldron/johnny-five/blob/master/docs/servo-keypress.md]
 
 Load more examples at: https://github.com/rwaldron/johnny-five/blob/master/docs
 
@@ -19,8 +19,8 @@ Load more examples at: https://github.com/rwaldron/johnny-five/blob/master/docs
 
 The Ultrasonic sensor we are using, HC-SR04, is called a Ping object in Johnny-Five.
 
-*(A basic Ping example)[https://github.com/rwaldron/johnny-five/blob/master/docs/ping.md]
-*(The Ping API) https://github.com/rwaldron/johnny-five/wiki/Ping]
+	*(A basic Ping example)[https://github.com/rwaldron/johnny-five/blob/master/docs/ping.md]
+	*(The Ping API) https://github.com/rwaldron/johnny-five/wiki/Ping]
 
 ##Project ideas
 

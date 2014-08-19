@@ -2,12 +2,14 @@
 
 Use the supplied kit to add some bling and beep to your teams Soccerbot
 
-##Blink and strobe LED's learn the tricks here:
+##Background
+
+###Blink and strobe LED's learn the tricks here:
 
 http://node-ardx.org/exercises/1
 http://node-ardx.org/exercises/2
 
-##To add some beep see here:
+###To add some beep see here:
 
 http://node-ardx.org/exercises/6
 
