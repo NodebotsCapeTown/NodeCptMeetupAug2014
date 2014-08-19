@@ -7,20 +7,27 @@ The Pan & Tilt kit have 2 servos that one use to move it around.
 
 Here are some usefull links to get you going with servos and the Ultrasonic sensor.
 
+[A basic servo example](http://node-ardx.org/exercises/4)
+
 *Servos*
 
-	*(A basic servo example)[http://node-ardx.org/exercises/4]
-	*(The Servo API)[https://github.com/rwaldron/johnny-five/wiki/Servo]
-	*(Move a Servo using the keyboard)[https://github.com/rwaldron/johnny-five/blob/master/docs/servo-keypress.md]
+Servo examples
 
-Load more examples at: https://github.com/rwaldron/johnny-five/blob/master/docs
+* [A basic servo example](http://node-ardx.org/exercises/4)
+
+* [The Servo API](https://github.com/rwaldron/johnny-five/wiki/Servo)
+
+* [Move a Servo using the keyboard](https://github.com/rwaldron/johnny-five/blob/master/docs/servo-keypress.md)
 
 *Ping*
 
 The Ultrasonic sensor we are using, HC-SR04, is called a Ping object in Johnny-Five.
 
-	*(A basic Ping example)[https://github.com/rwaldron/johnny-five/blob/master/docs/ping.md]
-	*(The Ping API) https://github.com/rwaldron/johnny-five/wiki/Ping]
+* [A basic Ping example](https://github.com/rwaldron/johnny-five/blob/master/docs/ping.md)
+
+* [The Ping API](https://github.com/rwaldron/johnny-five/wiki/Ping)
+
+Loads more examples at: https://github.com/rwaldron/johnny-five/blob/master/docs
 
 ##Project ideas
 
