@@ -8,7 +8,7 @@ Welcome to this event where we will give you a quick introduction to Nodebots. H
 ## Getting started
 
 A basic Nodebots introduction is available here: http://node-ardx.org/	
-This is a good starting point, we will use that to get going. 
+This is a good starting point, refer back to it whenever you get stuck tonight. 
 
 Clone this repository: https://github.com/NodebotsCapeTown/NodeCptMeetupAug2014 
 
@@ -16,7 +16,7 @@ Clone this repository: https://github.com/NodebotsCapeTown/NodeCptMeetupAug2014
 
 Typically you would need to setup your Arduino for Nodebots by loading Firmata on there. If you use your own Arduino for Nodebots you will need to do that. If you use one of the supplied Arduinos it will already have Firmata on there.
 
-To setup your Arduino follow these (setup steps)[http://node-ardx.org/]
+To setup your own Arduino follow these [setup steps](http://node-ardx.org/] - or ask us to help you.
 
 ### Install packages
 
@@ -70,15 +70,15 @@ All of the above setting is environment specific.
 
 ## Bling it on
 
-* Pimp your soccerbot - (bling and beep instructions)[assignments/Bling and peep.md]
-* For the more adventurous - (Pan & Tilt)[assignments/Pan and Tilt fun.md]
+* Pimp your soccerbot - [bling and beep instructions](assignments/Bling and peep.md)
+* For the more adventurous - [Pan & Tilt(./assignments/Pan and Tilt fun.md)
 
 ## Challenges
 
 Program your Soccerbot to:
 
-	* navigate its way around 4 cones in a clockwise direction and back.
-	* zig-zag it way through 5 cones. 
+* navigate its way around 4 cones in a clockwise direction and back.
+* zig-zag it way through 5 cones. 
 
 
 
