@@ -7,13 +7,13 @@ var keypress = require('keypress');
 
 keypress(process.stdin);
 
-//var board = new five.Board();
+var board = new five.Board();
 
 //var board = new five.Board({ port: "/dev/tty.Goetze-DevB"}); //yellow
 //var board = new five.Board({ port: "/dev/tty.COLIN-LEE-DevB"});
 //var board = new five.Board({ port: "/dev/tty.KhayaBot-DevB"});
 //var board = new five.Board({ port: "/dev/tty.OptiBot-DevB"});
-var board = new five.Board({ port: "/dev/tty.VivaBot-DevB"}); //green
+//var board = new five.Board({ port: "/dev/tty.VivaBot-DevB"}); //green
 
 board.on("ready", function() {
 
